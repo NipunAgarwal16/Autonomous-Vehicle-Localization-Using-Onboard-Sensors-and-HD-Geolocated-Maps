@@ -1,4 +1,4 @@
-# Autonomous-Navigation-in-Rough-Terrain
+# Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps
 
 
 This is project inspired from the Mathworks Matlab - Excellence in Innovation Repository :
@@ -6,7 +6,7 @@ https://github.com/mathworks/MathWorks-Excellence-in-Innovation.git
 The details of the project is illustrated on the project 209 readme with A* Path planning and obstacle avoidance in a warehouse example.
 
 ## Motivation :
-Autonomous navigation on off-road environment such as agricultural lands is significant in the development of autonomous vehicles.  Off-road terrain brings alot of complex problems such as uneven-ground with uncertain paths for an autonomous vehicle to traverse. In order to overcome these limitations a robust path planning algorithms and dynamic obstacle avoidance model must be deployed on the vehicles. Navigating complex terrain at speed and with minimal human supervision is a major challenge for developing such systems.
+Autonomous localization on off-road environment such as agricultural lands is significant in the development of autonomous vehicles.  Off-road terrain brings alot of complex problems such as uneven-ground with uncertain paths for an autonomous vehicle to traverse. In order to overcome these limitations a robust path planning algorithms and dynamic obstacle avoidance model must be deployed on the vehicles. Navigating complex terrain at speed and with minimal human supervision is a major challenge for developing such systems.
 
 
 ## Description :
@@ -48,9 +48,6 @@ There are following improvement points which needs to considered for further opt
 ## Credits
 
 We are thankful to the support of mentors and advisors of this Project:
-
-Dr. Roberto G. Valenti 
-(Senior Research Scientist,MathWorks Excellence in Innovation Program Lead)
 
 Dr. Bing Li 
 (Professor,Clemson University International Center for Automotive Research (CU-ICAR))
