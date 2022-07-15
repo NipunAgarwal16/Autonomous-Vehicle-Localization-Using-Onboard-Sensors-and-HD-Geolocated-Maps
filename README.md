@@ -31,9 +31,6 @@ Following are the steps taken for running this project -
 6. After creating the waypoints, the last point is goal of the trajectory which needs to be transformed back into gazebo coordinates. The mathworks path following with obstacle avoidance slx file takes this goal point as input to then generate the corresponding velocity upon connection with gazebo simulation. a rosinit command must be initialized in the command line of matlab to establish ros master connection with the turtlebot.
 7. The robot then traverses the given path and goal set in Gazebo environment after the simulink model runs successfully.
 
-## Results :
-
-![Runtime](https://github.com/Autonomousanz/Autonomous-Navigation-in-Rough-Terrain/blob/master/Videos/run.gif)
 
 ## Conclusion :
 Autonomous Navigation using RRT* path planning algorithm was achieved using turtlebot3 burger model in Gazebo ROS simulated environment. The scope of this project was limited to small rough terrain environment and can be further extended with additional optimizations such as testing dynamic obstacle avoidance cases and other worst case scenarios. The outcome of this analysis was an introductory study of autonomous navigation of robots in a rough terrain concepts and its workings using MATLAB and ROS GAZEBO environments. 
