@@ -47,7 +47,7 @@ There are following improvement points which needs to considered for further opt
 
 ## Credits
 
-We are thankful to the support of mentors and advisors of this Project:
+I am extremely thankful to the support of mentors and advisors of this Project:
 
 Dr. Bing Li 
 (Professor,Clemson University International Center for Automotive Research (CU-ICAR))
